@@ -1,4 +1,4 @@
-echo "Enter the url you would liketo check!"
+echo "Enter the url you would like to check!"
 read website
 
 echo "Pinging: $website"
